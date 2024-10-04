@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   align-items: center;
-  padding: 92px 49.48px 96px 50.52px;
+  padding: 92px 50px 96px;
   background-color: white;
 }
 
@@ -12,11 +12,11 @@
 
 .header__links-list {
   display: flex;
-  gap: 34px;
-  width: 391.48px;
+  gap: 30px;
+  width: 392x;
   font-weight: 400;
   font-size: 18px;
-  line-height: 21.13px;
+  line-height: 21px;
   list-style-type: circle;
 }
 
